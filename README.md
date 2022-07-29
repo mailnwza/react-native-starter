@@ -8,8 +8,6 @@
 
 ## Installation
 
----
-
 Requires [Node.js](https://nodejs.org/) v16.16+ to run.
 Requires [Yarn](https://yarnpkg.com/) v.1.23+
 
@@ -39,9 +37,7 @@ and Link native code :
 cd ios && pod install
 ```
 
-### Example the Code in Project
-
----
+## Example the Code in Project
 
 #### 1. react-navigation/bottom-tabs
 
@@ -130,7 +126,7 @@ const SVG = () => {
   );
 };
 
-export default Tabs;
+export default SVG;
 ```
 
 For production environments... soon
